@@ -29,14 +29,7 @@ All datasets are stored in the `datasets/` folder.
 - Jupyter Notebook
 
 ## Folder Structure
-hospitality_domain_EDA/
-├── datasets/
-│   ├── dim_date.csv
-│   ├── dim_hotels.csv
-│   ├── dim_rooms.csv
-│   ├── fact_aggregated_bookings.csv
-│   ├── fact_bookings.csv
-│   └── new_data_august.csv
-└── EDA in Hospitality Domain.ipynb
+
+
 
 
